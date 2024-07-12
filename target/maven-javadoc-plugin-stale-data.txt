@@ -1,0 +1,58 @@
+@options
+@packages
+-classpath
+'C:/Users/bryan/.m2/repository/org/hibernate/orm/hibernate-core/6.1.5.Final/hibernate-core-6.1.5.Final.jar;C:/Users/bryan/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.0.0/jakarta.persistence-api-3.0.0.jar;C:/Users/bryan/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.0/jakarta.transaction-api-2.0.0.jar;C:/Users/bryan/.m2/repository/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.jar;C:/Users/bryan/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/bryan/OneDrive/Documentos/NetBeansProjects/GestaoEducacional_PI/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/bryan/OneDrive/Documentos/NetBeansProjects/GestaoEducacional_PI/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'GestaoEducacional_PI 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'GestaoEducacional_PI 1.0-SNAPSHOT API'
+dao
+data
+view.administrador
+view.professor
+view.secretaria
+view.setorfinanceiro
+view.suporte
+view
+C:\Users\bryan\.m2\repository\org\hibernate\orm\hibernate-core\6.1.5.Final\hibernate-core-6.1.5.Final.jar = 1713818963120
+C:\Users\bryan\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.0.0\jakarta.persistence-api-3.0.0.jar = 1713818960860
+C:\Users\bryan\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.0\jakarta.transaction-api-2.0.0.jar = 1713818960560
+C:\Users\bryan\.m2\repository\com\mysql\mysql-connector-j\8.0.31\mysql-connector-j-8.0.31.jar = 1713819271885
+C:\Users\bryan\.m2\repository\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar = 1713819271719
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\src\main\java = 1714938979792
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\target\site\apidocs\allclasses-index.html = 1716669549807
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\target\site\apidocs\allpackages-index.html = 1716669549812
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\target\site\apidocs\element-list = 1716669549265
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\target\site\apidocs\help-doc.html = 1716669549874
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\target\site\apidocs\index-all.html = 1716669549866
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\target\site\apidocs\index.html = 1716669549757
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\target\site\apidocs\jquery-ui.overrides.css = 1716669549935
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\target\site\apidocs\member-search-index.js = 1716669549822
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\target\site\apidocs\module-search-index.js = 1716669549815
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\target\site\apidocs\overview-summary.html = 1716669549870
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\target\site\apidocs\overview-tree.html = 1716669549751
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\target\site\apidocs\package-search-index.js = 1716669549817
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\target\site\apidocs\script.js = 1716669549880
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\target\site\apidocs\search.js = 1716669549885
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\target\site\apidocs\serialized-form.html = 1716669549441
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\target\site\apidocs\stylesheet.css = 1716669549878
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\target\site\apidocs\tag-search-index.js = 1716669549825
+C:\Users\bryan\OneDrive\Documentos\NetBeansProjects\GestaoEducacional_PI\target\site\apidocs\type-search-index.js = 1716669549819
